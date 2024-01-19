@@ -1,12 +1,12 @@
 [
-    { "nom": "EL NANO", "atac": 1000, "defensa": 1000, "velocitat": 1000, "salut": 1000, "imatge": "/Img/alonso.png" },
-    { "nom": "Hamilton", "atac": 85, "defensa": 85, "velocitat": 9, "salut": 100, "imatge": "/Img/hamilton.png" },
-    { "nom": "Verstappen", "atac": 90, "defensa": 70, "velocitat": 10, "salut": 100, "imatge": "/Img/verstappen.png" },
-    { "nom": "Sainz", "atac": 75, "defensa": 80, "velocitat": 8, "salut": 100, "imatge": "/Img/sainz.png" },
-    { "nom": "Perez", "atac": 60, "defensa": 80, "velocitat": 6, "salut": 100, "imatge": "/Img/perez.png" },
-    { "nom": "Russell", "atac": 80, "defensa": 85, "velocitat": 8, "salut": 100, "imatge": "/Img/russell.png" },
-    { "nom": "Bottas", "atac": 65, "defensa": 75, "velocitat": 7, "salut": 100, "imatge": "/Img/bottas.png" },
-    { "nom": "Leclerc", "atac": 80, "defensa": 75, "velocitat": 8, "salut": 100, "imatge": "/Img/leclerc.png" },
-    { "nom": "Tsunoda", "atac": 55, "defensa": 80, "velocitat": 7, "salut": 100, "imatge": "/Img/tsunoda.png" },
-    { "nom": "Ocon", "atac": 15, "defensa": 65, "velocitat": 6, "salut": 100, "imatge": "/Img/ocon.png" }
+    { "nom": "EL NANO", "atac": 1000, "defensa": 1000, "velocitat": 1000, "salut": 1000, "imatge": "alonso.png" },
+    { "nom": "Hamilton", "atac": 85, "defensa": 85, "velocitat": 9, "salut": 100, "imatge": "hamilton.png" },
+    { "nom": "Verstappen", "atac": 90, "defensa": 70, "velocitat": 10, "salut": 100, "imatge": "verstappen.png" },
+    { "nom": "Sainz", "atac": 75, "defensa": 80, "velocitat": 8, "salut": 100, "imatge": "sainz.png" },
+    { "nom": "Perez", "atac": 60, "defensa": 80, "velocitat": 6, "salut": 100, "imatge": "perez.png" },
+    { "nom": "Russell", "atac": 80, "defensa": 85, "velocitat": 8, "salut": 100, "imatge": "russell.png" },
+    { "nom": "Bottas", "atac": 65, "defensa": 75, "velocitat": 7, "salut": 100, "imatge": "bottas.png" },
+    { "nom": "Leclerc", "atac": 80, "defensa": 75, "velocitat": 8, "salut": 100, "imatge": "leclerc.png" },
+    { "nom": "Tsunoda", "atac": 55, "defensa": 80, "velocitat": 7, "salut": 100, "imatge": "tsunoda.png" },
+    { "nom": "Ocon", "atac": 15, "defensa": 65, "velocitat": 6, "salut": 100, "imatge": "ocon.png" }
 ]
